@@ -1,1 +1,3 @@
-# DEV_DJANGO_BAKA
+# DEV_C_BAKA
+
+Too Lazy !
